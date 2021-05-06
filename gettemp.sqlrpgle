@@ -1,9 +1,6 @@
 **free
 //-----------------------------------------------------------------------------
 // Retrieve current temerature in Alston from wunderground.com
-//
-// API documentation at:
-//  docs.google.com/document/d/1KGb8bTVYRsNgljnNH67AMhckY8AQT2FVwZ9urj8SWBs/edit
 //-----------------------------------------------------------------------------
 
 // Input parameters
